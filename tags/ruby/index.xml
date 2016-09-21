@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruby on Btown.rb - Bloomington Ruby Brigade</title>
+    <link>http://btownrb.org/tags/ruby/</link>
+    <description>Recent content in Ruby on Btown.rb - Bloomington Ruby Brigade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Dave Strus</copyright>
+    <lastBuildDate>Tue, 20 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://btownrb.org/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>September 20, 2016 Meetup</title>
+      <link>http://btownrb.org/post/2016-09-20/</link>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://btownrb.org/post/2016-09-20/</guid>
+      <description>
+
+&lt;h2 id=&#34;get-a-whiff-of-this-https-youtu-be-pjjhfa5yxlu-by-sandi-metz&#34;&gt;&lt;a href=&#34;https://youtu.be/PJjHfa5yxlU&#34;&gt;Get a Whiff of This&lt;/a&gt; by Sandi Metz&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/PJjHfa5yxlU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;news-and-links&#34;&gt;News and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubyconf.org/&#34;&gt;RubyConf&lt;/a&gt; will be close to home, in Cincinnati, November 10-12.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/news/2016/09/08/ruby-2-4-0-preview2-released/&#34;&gt;Ruby 2.4.0-preview2&lt;/a&gt; has been released.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;new-gems&#34;&gt;New Gems&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/testdouble/suture&#34;&gt;Suture&lt;/a&gt; is an interesting new gem that helps with refactoring.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;good-reads&#34;&gt;Good Reads&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tech.lendinghome.com/a-case-for-composition-ed4a0daf79be#.r3mo25m67&#34;&gt;A Case For Composition&lt;/a&gt; by Li Ouyang&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
