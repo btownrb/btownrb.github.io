@@ -1,0 +1,10 @@
+baseurl = "http://btownrb.org/"
+languageCode = "en-us"
+title = "Btown.rb - Bloomington Ruby Brigade"
+author = "Davey Strus"
+copyright = "&copy; 2016 Dave Strus"
+canonifyurls = true
+theme = "beg"
+
+[params]
+  toc = true

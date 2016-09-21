@@ -1,0 +1,60 @@
+
+<aside class="site">
+
+  <h2>Btown.rb</h2>
+  <p>Already build software with Ruby and Ruby on Rails? Want to learn?</p>
+  <p>Whether you're experienced, learning, or just curious, let's get together.</p>
+
+  <p><a href="http://www.meetup.com/btownrb/">Join for free on Meetup.</a></p>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title"><strong>Next Meetup</strong></h2>
+    </div>
+    <div class="list-group">
+      <div class="list-group-item">
+        Tuesday, October 18 @ 7pm -
+        <a href="http://www.meetup.com/btownrb/events/232712021/" data-event="232712021">RSVP now!</a>
+      </div>
+      <div class="list-group-item">
+        <a href="https://maps.google.com/maps?f=q&hl=en&q=303+E.+Kirkwood+Ave%2C+Bloomington%2C+IN%2C+us">Monroe County Public Library, Room 2A</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title">Join the Conversation</h2>
+    </div>
+    <div class="list-group">
+      <div class="list-group-item"><script async defer src="https://btownrb.herokuapp.com/slackin.js?large"></script></div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title">Recent Meetups</h2>
+    </div>
+    <div class="list-group">
+      {{ range first 10 .Site.Pages }}
+      <a href="{{ .Permalink }}" class="list-group-item">{{ .Title }}</a>
+      {{ end }}
+    </div>
+  </div>
+<!--
+  {{ range $key, $value := .Site.Taxonomies }}
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title">{{ $key | singularize }}</h2>
+    </div>
+    <div class="list-group">
+      {{ range first 10 $value.ByCount }}
+      <a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}" class="list-group-item">{{ .Name }}</a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }} -->
+
+  <p>Sponsored by <a href="http://www.getfretless.com">Fretless</a></p>
+
+</aside>
