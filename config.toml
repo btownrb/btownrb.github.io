@@ -8,3 +8,6 @@ theme = "beg"
 
 [params]
   toc = true
+  githubUser = "btownrb"
+  githubRepoCount = 5
+  githubSkipForks = true
